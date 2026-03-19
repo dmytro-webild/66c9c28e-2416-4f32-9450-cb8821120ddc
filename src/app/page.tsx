@@ -88,6 +88,9 @@ export default function LandingPage() {
           useInvertedBackground={false}
           animationType="scale-rotate"
           carouselMode="buttons"
+          buttons={[
+            { text: "Explore All Services", href: "#contact" }
+          ]}
           features={[
             {
               id: "service-1",              title: "Luxury Brand Strategy",              description: "Strategic positioning and market analysis for brands seeking premium market dominance and cultural relevance.",              tag: "Strategy",              imageSrc: "http://img.b2bpic.net/free-psd/jewellery-template-design_23-2151573596.jpg",              imageAlt: "Brand strategy consultation"
