@@ -173,7 +173,7 @@ export default function LandingPage() {
           tagIcon={Send}
           tagAnimation="slide-up"
           background={{ variant: "radial-gradient" }}
-          useInvertedBackground={false}
+          useInvertedBackground={true}
           inputPlaceholder="your@brand.com"
           buttonText="Request Consultation"
           termsText="By submitting, you agree to our exclusive partnership terms and privacy policy."
