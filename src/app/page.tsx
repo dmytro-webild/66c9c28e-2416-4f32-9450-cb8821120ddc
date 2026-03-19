@@ -44,7 +44,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroSplit
           title="Elevate Your Brand Into the Extraordinary"
-          description="We craft exclusive luxury experiences that transcend ordinary design. Our bespoke creative services transform ambitious brands into cultural icons."
+          description="Transform your brand into a luxury market leader. We craft exclusive experiences that establish market dominance through meticulous craftsmanship and visionary strategic positioning."
           tag="Premium Design Studio"
           tagIcon={Sparkles}
           tagAnimation="slide-up"
