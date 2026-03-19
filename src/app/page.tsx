@@ -57,7 +57,7 @@ export default function LandingPage() {
           imageAlt="Luxury studio workspace"
           mediaAnimation="blur-reveal"
           imagePosition="right"
-          background={{ variant: "circleGradient" }}
+          background={{ variant: "radial-gradient" }}
         />
       </div>
 
